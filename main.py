@@ -1,6 +1,6 @@
 # Ivan Ryabtsev
 def my_function():
-    print('Нужно решать задачи')
+    print('Ура..')
 
 
 def main():
